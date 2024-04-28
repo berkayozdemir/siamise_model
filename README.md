@@ -14,7 +14,9 @@ Put path of your mask directory as second arg.
 Impainted positive images from unet masks results:
 
 25/25 ━━━━━━━━━━━━━━━━━━━━ 111s 4s/step - loss: 0.3087 - val_loss: 0.3116
+
 Positive similarity: 0.9965677
+
 Negative similarity 0.9957123
 
 Impainted positive images from segment anything masks results:
