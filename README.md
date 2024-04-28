@@ -26,3 +26,9 @@ Impainted positive images from segment anything masks results:
 Positive similarity: 0.9958557
 
 Negative similarity 0.99438083
+
+# VERSIONS
+
+tensorflow->2.13.1
+
+keras->3.3.3
